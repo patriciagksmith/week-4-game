@@ -1,0 +1,58 @@
+
+body{
+	background-image: url("../images/background.png");
+	font-family:Arial, sans-serif;
+	font-size:16px;
+	text-align:left;
+}
+
+.box {
+	background-color:#ffffff;
+	opacity: 30%;
+	width:600px;
+	border:solid 6px #cccccc;
+	padding:30px;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+div{
+	background-color: #ffffff;
+	margin: 10px;
+	padding: 10px;
+}
+p {
+	margin-bottom:10px;
+	line-height: 20px;
+}
+h1{
+	color:#1a15fa;
+	font-weight: bold;
+	text-align: center;
+	font-size: 26pt;
+	text-transform:uppercase;
+	margin-bottom:20px;
+}
+h2{
+	text-align: left;
+	font-size:24px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+
+
+.crystalTable {
+	width:600px;
+}
+.numberToMatch, .winsAndLosses{
+	float: left;
+	height: 60px;
+}
+.userTotal{
+	height: 60px;
+}
+.crystals{
+	clear: both;
+}
+
+
